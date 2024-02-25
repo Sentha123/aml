@@ -1761,6 +1761,15 @@ header {
   .time {
     font-size: 15px;
   }
+  .wow{
+    padding-top: 30px;
+  }
+}
+@media screen and (min-width:769px) and (max-width:1200px){
+  .emd{
+    padding: 0;
+    font-size: 1rem;
+  }
 }
 
 
